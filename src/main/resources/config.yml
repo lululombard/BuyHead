@@ -1,0 +1,10 @@
+price: 5.0
+msg-buy: "&6Vous avez acheté %amount% tête(s) de %skullowner% pour %currency%%price% !"
+msg-notexists: "&cLe joueur %skullowner% n'existe pas."
+msg-nomoney: "&cVous n'avez pas assez d'argent, une tête côute %currency%%unitprice% à l'unité."
+msg-help: "&6Utilisation : %cmd% <pseudo> [quantité] pour acheter la tête du joueur pour %currency%%unitprice%"
+msg-invfull: "&cVotre inventaire est plein, veuillez le vider et revenir pour faire la transaction."
+msg-mojangerr: "&cUne erreur est survenue lors de la vérification avec les serveurs de Mojang, veuillez rééssayer plus tard."
+msg-noperm: "&cVous avez besoin de la permission %permnode% pour effectuer cette commande."
+custom-name: "&aTête de %owner%"
+custom-lore: "Achetée le %date% à %time% par %buyer%"

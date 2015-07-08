@@ -1,0 +1,10 @@
+name: BuyHead
+main: com.kingdomhills.buyhead.BuyHead
+version: 1.0
+author: KingdomHills
+authors: [lululombard]
+depend: [Vault]
+commands:
+  buyhead:
+    description: BuyHead
+    aliases: [buyh]
